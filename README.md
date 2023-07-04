@@ -8,8 +8,9 @@ i'm also interested in studying data mining and data analytics, to create modern
 
 1. javascript : react.js, node.js , express.js
 2. php : laravel, inertia
+3. css : tailwind.css
 
 ## sotfware development :
-1. jira
-2. scrum
-3. agile software development
+1. jira for project management
+2. scrum and agile software development as my software process
+3. TDD to build extendable software
