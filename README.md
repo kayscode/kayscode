@@ -1,6 +1,6 @@
 ### Hi there
 
-i am samy kayembe, i've been working in software development since 2021, i started using php technology to build mostly human ressource management based application like payroll and career plan management, now i extend my tech stack with javascript and it ecosystem framework and librairies to build software.
+i am samy kayembe, i've been working in software development since 2020, i started using php technology to build mostly human ressource management based application like payroll and career plan management, now i extend my tech stack with javascript and it ecosystem framework and librairies to build software.
 
 i'm also interested in studying data mining and data analytics, to create modern decision support software in management field.
 
